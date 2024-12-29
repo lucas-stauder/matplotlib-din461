@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "matplotlib-din461"
-version = "0.1.0"
+version = "0.1.1"
 description = "Changes the appearance of a python matplotlib 2D plot in accordance with DIN461"
 authors = ["Christof Küstner"]
 license = "MIT License"
